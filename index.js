@@ -4,4 +4,3 @@ function kittens() {
 var array = ["Milo", "Otis", "Garfield"];
 return array.push("Boots");
 }
-
