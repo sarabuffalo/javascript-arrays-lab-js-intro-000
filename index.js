@@ -6,4 +6,3 @@ kittens.push("Ralph");
 return kittens;
 
 }
-
