@@ -4,4 +4,3 @@ function destructivelyAppendKitten(name) {
 name = ["Milo", "Otis", "Garfield"]
 name.push("Ralph")
 }
-
